@@ -1,2 +1,4 @@
-uwu.
+.uwu.
+>>>>>>> critic_issue
 c:
+--
